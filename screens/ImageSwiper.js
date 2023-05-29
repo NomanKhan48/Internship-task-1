@@ -297,7 +297,7 @@ const styles = StyleSheet.create({
     borderBottomLeftRadius: 30,
     borderBottomRightRadius: 30,
     flexDirection: 'row',
-    padding: 10,
+    padding: 15,
     top: '1%',
     justifyContent: 'space-between',
     alignItems: 'center',
