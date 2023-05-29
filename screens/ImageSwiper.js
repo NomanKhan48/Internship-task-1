@@ -171,7 +171,6 @@ const styles = StyleSheet.create({
     margin: 10,
     height: '45%',
     borderRadius:40,
-    backgroundColor:'red'
   },
   swiperContainer: {
     justifyContent: 'center',
